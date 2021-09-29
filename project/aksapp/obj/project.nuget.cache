@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ve91N5aGTWHW3l1AEYwcJZeqUdfzx6GUpVomob2BQnx2H4Oet79cCqYYarjyg6gb6IcE5WFny6Z3/3zNVP39JQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ritesh.siotiya\\git-project\\aks-sample\\project\\aksapp\\aksapp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ritesh.siotiya\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
